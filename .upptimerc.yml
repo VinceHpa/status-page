@@ -5,11 +5,11 @@ repo: status-page # The name of this repository
 sites:
   - name: Culturatela.com
     url: https://app.culturatela.it
-  - name: Cultura Lucca - SUMMÆ
+  - name: Cultura Lucca SUMMÆ
     url: https://cultura.comune.lucca.it
   - name: Servizi di Backend
     url: https://cultura.comune.lucca.it
-   - name: Servizi TCK@
+  - name: Servizi TCK@
     url: https://cultura.comune.lucca.it
 
 status-website:
