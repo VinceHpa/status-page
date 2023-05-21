@@ -11,7 +11,7 @@ sites:
     url: https://app.culturatela.it
   - name: Cultura Città Ancona
     url: https://app.culturatela.it
-    - name: Cultura Città Sondrio
+  - name: Cultura Città Sondrio
     url: https://app.culturatela.it
   - name: Servizi di Backend
     url: https://app.culturatela.it
