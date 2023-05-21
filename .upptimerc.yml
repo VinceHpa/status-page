@@ -15,7 +15,7 @@ sites:
     url: https://app.culturatela.it
   - name: Servizi di Backend
     url: https://app.culturatela.it
-  - name: Servizi fiscali & TICK@
+  - name: Servizi fiscali TICK@
     url: https://home.culturatela.it
 
 status-website:
