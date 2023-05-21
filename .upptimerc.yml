@@ -18,15 +18,17 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   #cname: https://app.culturatela.it
   baseUrl: /status-page
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
+  logoUrl: https://app.culturatela.it/static/images/Black.png
+  name: Cultura Tela - HPA SRL
   introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: Attraverso questa pagina puoi monitorare lo stato degli applicativi
+  introMessage: Attraverso questa pagina puoi monitorare lo stato degli applicativi offerti dalla suite:
   navbar:
     - title: Status
       href: /
-    - title: GitHub
-      href: https://github.com/$OWNER/$REPO
+    - title: TELA
+      href: https://culturatela.com
+    - title: SUMMÆ
+      href: https://cultura.comune.lucca.it
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
