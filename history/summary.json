@@ -72,6 +72,24 @@
     "dailyMinutesDown": {}
   },
   {
+    "name": "Cultura Città Sondrio",
+    "url": "https://app.culturatela.it",
+    "icon": "https://icons.duckduckgo.com/ip3/app.culturatela.it.ico",
+    "slug": "cultura-citta-sondrio",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 276,
+    "timeDay": 276,
+    "timeWeek": 276,
+    "timeMonth": 276,
+    "timeYear": 276,
+    "dailyMinutesDown": {}
+  },
+  {
     "name": "Servizi di Backend",
     "url": "https://app.culturatela.it",
     "icon": "https://icons.duckduckgo.com/ip3/app.culturatela.it.ico",
@@ -90,21 +108,21 @@
     "dailyMinutesDown": {}
   },
   {
-    "name": "Servizi TCK@",
+    "name": "Servizi fiscali TICK@",
     "url": "https://home.culturatela.it",
     "icon": "https://icons.duckduckgo.com/ip3/home.culturatela.it.ico",
-    "slug": "servizi-tck",
+    "slug": "servizi-fiscali-tick",
     "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 574,
-    "timeDay": 574,
-    "timeWeek": 574,
-    "timeMonth": 574,
-    "timeYear": 574,
+    "time": 1232,
+    "timeDay": 1232,
+    "timeWeek": 1232,
+    "timeMonth": 1232,
+    "timeYear": 1232,
     "dailyMinutesDown": {}
   }
 ]
