@@ -21,7 +21,7 @@ status-website:
   logoUrl: https://app.culturatela.it/static/images/Black.png
   name: Cultura Tela - HPA SRL
   introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: Attraverso questa pagina puoi monitorare lo stato degli applicativi offerti dalla suite:
+  introMessage: Attraverso questa pagina puoi monitorare lo stato degli applicativi offerti dalla suite
   navbar:
     - title: Status
       href: /
