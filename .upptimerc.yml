@@ -8,9 +8,7 @@ sites:
   - name: Cultura Lucca SUMMÆ
     url: https://cultura.comune.lucca.it
   - name: Servizi di Backend
-    url: https://devbackend.kicky.cloud
-  - name: Servizi di Backend Lucca
-    url: https://devbackend.kicky.cloud/
+    url: https://app.culturatela.it
   - name: Servizi TCK@
     url: https://biglietteria.culturatela.it
 
