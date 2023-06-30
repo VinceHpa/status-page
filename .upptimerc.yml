@@ -26,7 +26,6 @@ status-website:
   baseUrl: /status-page
   logoUrl: https://app.culturatela.it/static/images/Black.png
   name: Cultura Tela - HPA SRL
-  uses: upptime/uptime-monitor@v1.30.0
   introTitle: "Suite Applicativi culturatela.com + white label"
   introMessage: Attraverso questa pagina puoi monitorare lo stato degli applicativi offerti dalla suite
   navbar:
