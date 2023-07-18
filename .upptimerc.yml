@@ -15,6 +15,8 @@ sites:
     url: https://app.culturatela.it
   - name: Servizi di Backend
     url: https://kicky.cloud
+  - name: Servizi di Backend 2
+    url: https://kicky.cloud
   - name: Servizi fiscali TICK@
     url: https://home.culturatela.it
     
